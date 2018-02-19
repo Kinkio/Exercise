@@ -1,5 +1,5 @@
-# Exercise and other small projects
-Small exercise, projects and templets
+# Native Android app projects
 
-This repo is for all small test exercise or other small fun projects i'm 
-working on. Nothing much just fun :coffee:
+This repo is for my projects with focus on Navtive Android applikations.
+
+Nothing much just fun :coffee:
